@@ -180,7 +180,7 @@ These make a film look like a tutorial or a template:
 
 ## 9. Preview, then verify like a DP
 
-Before any full-quality render, render a lightweight preview (960 × 540, 30 fps, 2 motion-blur sub-frames, half capture scale), show it to the user, and wait for their OK.
+Before rendering anything, prepare and show a storyboard with the timeline and a scene description for every shot. Then render a 480p preview (854 × 480, 30 fps, 2 motion-blur sub-frames, half capture scale), show it to the user, and wait for approval before rendering the final video.
 
 Render a still at the middle of every shot, at each action's peak, at the payoff, and at the copy and logo frames. Judge each one as a frame grab from a film:
 

@@ -444,4 +444,4 @@ Before the full-resolution render, render each still at a quarter of its deliver
 | Motion blur | 4+ sub-frames per frame, 0.5 shutter (180°) |
 | Grain | Fine temporal luma noise, applied after the grade: strength about 4 on ffmpeg's `noise` filter on the dark stage, lighter on the light stage (`noise=alls=3`) |
 | Legibility | Text in focus is at least 24 px tall on screen at 1080p. Check it at 960 × 540. |
-| Preview | Before any full-quality render: 960 × 540, 30 fps, 2 motion-blur sub-frames, half capture scale. Wait for the user's OK. |
+| Preview | After showing the storyboard (timeline and scene descriptions), render at 854 × 480 (480p), 30 fps, 2 motion-blur sub-frames, half capture scale. Show it and wait for the user's approval before the final video render. |
