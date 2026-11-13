@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "commit_sha": "c54df45a275cf3901490ffa931cf119757f5d5d8",
+  "refs": [
+    {
+      "name": "refs/heads/main",
+      "target_sha1": "c54df45a275cf3901490ffa931cf119757f5d5d8"
+    }
+  ],
+  "packs": [
+    {
+      "uuid": "9bd582fb-120b-4692-bd01-4b436de44d92",
+      "type": "FULL",
+      "depth": 0,
+      "boundary_commits": [],
+      "object_count": 4089,
+      "size_bytes": 3508973,
+      "sequence_num": 0,
+      "checksum_sha1": "0313418adb7fe43ba3334007de70801ea6a325d3",
+      "created_at": 1793783364
+    },
+    {
+      "uuid": "b611a968-14dd-4100-b567-be99382d43fa",
+      "type": "FULL",
+      "depth": 0,
+      "boundary_commits": [],
+      "object_count": 1039,
+      "size_bytes": 618379,
+      "sequence_num": 0,
+      "checksum_sha1": "79f2eb5af7109ab37072bd9e4364a34e57c23da9",
+      "created_at": 1793910093
+    },
+    {
+      "uuid": "b10e3651-7401-4840-93c2-96f9b9fc1eba",
+      "type": "FULL",
+      "depth": 0,
+      "boundary_commits": [],
+      "object_count": 426,
+      "size_bytes": 303397,
+      "sequence_num": 0,
+      "checksum_sha1": "f7f2426eee76fae8f6fbf54d278bfaa1f96aa2e8",
+      "created_at": 1794206987
+    },
+    {
+      "uuid": "357f3128-8fb0-4180-919a-27ed3f48a67f",
+      "type": "SHALLOW",
+      "depth": 20,
+      "boundary_commits": [
+        "b431c0d80bef536fefba991a2d12fb86c9008ca9"
+      ],
+      "object_count": 866,
+      "size_bytes": 2719640,
+      "sequence_num": 0,
+      "checksum_sha1": "d10675aed95df4d2fb8099d65ecdb1d89f0220a9",
+      "created_at": 1793783364
+    },
+    {
+      "uuid": "fcb52783-9527-49fd-ad02-2bb3da175f79",
+      "type": "SHALLOW",
+      "depth": 1,
+      "boundary_commits": [
+        "c54df45a275cf3901490ffa931cf119757f5d5d8"
+      ],
+      "object_count": 763,
+      "size_bytes": 2650877,
+      "sequence_num": 0,
+      "checksum_sha1": "5cb566678cc54358c4e4a38efeef67e40ba37d4e",
+      "created_at": 1793783364
+    }
+  ],
+  "lfs_objects": []
+}
